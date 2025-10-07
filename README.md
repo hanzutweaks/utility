@@ -89,7 +89,8 @@ _All changes use standard Windows mechanisms (registry, services, tasks, `powerc
 3) Create a **System Restore Point** & a **Registry Backup**  
 4) **Read all pop-ups** and the short description for each category before applying
 
-> 💬 **Kind request:** After you’re done, please write a quick review and share feedback on our Discord — it really helps!  
+> 💬 **Kind request:**
+> After you’re done, please write a quick review and share feedback on our Discord — it really helps!  
 > **Discord:** https://discord.gg/YTgc3d3UDg
 
 ---

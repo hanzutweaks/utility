@@ -8,7 +8,10 @@
   </a>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/hanzutweaks/utility/total?color=brightgreen&label=Downloads)
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/hanzutweaks/utility/total?color=007BFF&label=Total%20Downloads&style=for-the-badge" alt="Total Downloads" height="40">
+</p>
+
 
 ---
 

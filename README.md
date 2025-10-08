@@ -8,6 +8,8 @@
   </a>
 </p>
 
+![Downloads](https://img.shields.io/github/downloads/hanzutweaks/utility/total?color=brightgreen&label=Downloads)
+
 ---
 
 # Hanzu Tweaking Utility

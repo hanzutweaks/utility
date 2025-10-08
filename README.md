@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hanzutweaks/utility/releases/latest/download/Hanzu%20Tweaking%20Utility%20v2.0%.cmd" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/hanzutweaks/utility/main/images/download_button.png" alt="Download Hanzu Tweaking Utility v3.0 (Stable)">
+  <a href="https://github.com/hanzutweaks/utility/releases/download/v2.0/Hanzu.Tweaking.Utility.v2.0.zip" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/hanzutweaks/utility/main/images/download_button.png" alt="Download Hanzu Tweaking Utility v2.0 (Stable)">
   </a>
 </p>
 
